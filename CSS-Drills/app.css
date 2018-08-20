@@ -1,0 +1,28 @@
+body {
+    font-family: 'Lato', sans-serif
+}
+
+body {
+    background-color: gray
+}
+
+h2, p, .readme {
+    text-align: center
+}
+
+
+a{
+    color: red
+}
+
+a{
+    border: 1px solid black
+}
+
+.boxes {
+    display: inline;
+    margin: 2rem;
+    padding: 1em;
+    border: solid;
+    border-radius: 5rem
+}
